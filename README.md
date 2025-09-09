@@ -55,12 +55,12 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyam8589&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam8589&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyam8589&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam8589&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam8589&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam8589&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Graph
@@ -69,35 +69,34 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam8589&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
-### 📊 Real-time GitHub Metrics
+### 📊 GitHub Overview
 
 <div align="center">
   
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/Satyam8589/Satyam8589?style=for-the-badge&logo=github&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/Satyam8589/Satyam8589?style=for-the-badge&logo=github&color=green)
-![GitHub Issues](https://img.shields.io/github/issues/Satyam8589/Satyam8589?style=for-the-badge&logo=github&color=red)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Satyam8589/Satyam8589?style=for-the-badge&logo=github&color=yellow)
+![GitHub Followers](https://img.shields.io/github/followers/Satyam8589?style=for-the-badge&logo=github&label=Followers&color=blue)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Satyam8589&color=blue&style=for-the-badge&label=Profile%20Views)
+![Years on GitHub](https://badges.pufler.dev/years/Satyam8589?style=for-the-badge&color=green&logo=github)
 
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam8589&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&cache_seconds=86400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam8589&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </div>
 
 ## 📌 Pinned Repositories
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=PodCastify&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/PodCastify)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=MediMeet&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/MediMeet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=PodCastify&theme=tokyonight)](https://github.com/Satyam8589/PodCastify)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=MediMeet&theme=tokyonight)](https://github.com/Satyam8589/MediMeet)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=Splitr&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/Splitr)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=lottery-smart-contract&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/lottery-smart-contract)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=Splitr&theme=tokyonight)](https://github.com/Satyam8589/Splitr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=lottery-smart-contract&theme=tokyonight)](https://github.com/Satyam8589/lottery-smart-contract)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=SaveServe&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/SaveServe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=CrowdFunding-Dapp&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/CrowdFunding-Dapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=SaveServe&theme=tokyonight)](https://github.com/Satyam8589/SaveServe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=CrowdFunding-Dapp&theme=tokyonight)](https://github.com/Satyam8589/CrowdFunding-Dapp)
 
 </div>
 
@@ -108,16 +107,15 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Satyam8589&theme=tokyo-night&hide_border=true)](https://github.com/Satyam8589)
-
 </div>
 
-## ⚡ Live GitHub Feed
+## ⚡ GitHub Activity Overview
 
 <div align="center">
   
-![GitHub Activity](https://img.shields.io/github/commit-activity/w/Satyam8589/Satyam8589?style=for-the-badge&logo=github&label=Weekly%20Commits&color=blue)
-![GitHub Activity](https://img.shields.io/github/commit-activity/y/Satyam8589/Satyam8589?style=for-the-badge&logo=github&label=Yearly%20Commits&color=green)
+![GitHub commits](https://badges.pufler.dev/commits/monthly/Satyam8589?style=for-the-badge&color=blue&logo=github&label=Monthly%20Commits)
+![GitHub repos](https://badges.pufler.dev/repos/Satyam8589?style=for-the-badge&color=green&logo=github&label=Public%20Repos)
+![GitHub updated](https://badges.pufler.dev/updated/Satyam8589/Satyam8589?style=for-the-badge&color=orange&logo=github&label=Last%20Updated)
 
 </div>
 
@@ -245,13 +243,13 @@ Blockchain-powered crowdfunding platform ensuring transparency and security. Bui
 
 <div align="center">
 
-### 📊 This Week's Language Stats
+### 📊 GitHub Language Statistics
 
-![Top Languages This Week](https://github-readme-stats.vercel.app/api/wakatime?username=Satyam8589&theme=tokyonight&layout=compact&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam8589&theme=tokyonight&layout=compact&hide_border=true)
 
-### ⏰ Coding Time This Week
+### ⏰ Development Activity
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Satyam8589&theme=tokyonight&cache_seconds=86400)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyam8589&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
