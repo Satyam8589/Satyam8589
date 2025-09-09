@@ -119,12 +119,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam8589&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
 ## 🌱 What I'm Working On
 
 - 🔭 Currently exploring **Web3 development** and **DeFi protocols**
@@ -251,11 +245,13 @@ Blockchain-powered crowdfunding platform ensuring transparency and security. Bui
 
 ### 📊 GitHub Language Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam8589&theme=tokyonight&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam8589&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
 
 ### ⏰ Development Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyam8589&theme=tokyo-night&hide_border=true&area=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam8589&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 </div>
 
