@@ -1,56 +1,7 @@
 # Hi there, I'm Satyam! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam8589&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
-## 🔥 Recent Activity
-
-<div align="center">
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-## 🌱 What I'm Working On
-
-- 🔭 Currently exploring **Web3 development** and **DeFi protocols**
-- 🌱 Learning advanced **smart contract security** and **gas optimization**
-- 👯 Looking to collaborate on **open-source blockchain projects**
-- 🎯 Building the next generation of **decentralized applications**
-- 📝 Contributing to **open-source projects** in the blockchain ecosystem
-- 🚀 Developing **scalable full-stack applications** with modern frameworks
-
-## 💼 Professional Experience & Skills
-
-<details>
-<summary>🎓 <b>Core Competencies</b></summary>
-<br>
-
-- **Frontend Development:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend Development:** Node.js, Express, Java, RESTful APIs, GraphQL
-- **Database Management:** PostgreSQL, MongoDB, Prisma ORM
-- **Blockchain Development:** Solidity, Ethereum, Smart Contracts, DeFi
-- **Cloud Services:** Firebase, Vercel, AWS, Docker
-- **Development Tools:** Git, VS Code, Postman, Hardhat, Truffle
-
-</details>
-
-<details>
-<summary>🏗️ <b>Architecture & Best Practices</b></summary>
-<br>
-
-- **Clean Code:** Following SOLID principles and design patterns
-- **Testing:** Unit testing, Integration testing, TDD approach
-- **CI/CD:** Automated deployment pipelines and version control
-- **Security:** Smart contract auditing and secure coding practices
-- **Performance:** Code optimization and scalability considerations
-
-</details>ause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Enthusiast;Smart+Contract+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Enthusiast;Smart+Contract+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a deep interest in **blockchain technology** and **decentralized applications**. I love building innovative solutions that bridge traditional web development with the future of decentralization.
@@ -116,6 +67,57 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam8589&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam8589&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</div>
+
+## 🔥 Recent Activity
+
+<div align="center">
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+## 🌱 What I'm Working On
+
+- 🔭 Currently exploring **Web3 development** and **DeFi protocols**
+- 🌱 Learning advanced **smart contract security** and **gas optimization**
+- 👯 Looking to collaborate on **open-source blockchain projects**
+- 🎯 Building the next generation of **decentralized applications**
+- 📝 Contributing to **open-source projects** in the blockchain ecosystem
+- 🚀 Developing **scalable full-stack applications** with modern frameworks
+
+## 💼 Professional Experience & Skills
+
+<details>
+<summary>🎓 <b>Core Competencies</b></summary>
+<br>
+
+- **Frontend Development:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend Development:** Node.js, Express, Java, RESTful APIs, GraphQL
+- **Database Management:** PostgreSQL, MongoDB, Prisma ORM
+- **Blockchain Development:** Solidity, Ethereum, Smart Contracts, DeFi
+- **Cloud Services:** Firebase, Vercel, AWS, Docker
+- **Development Tools:** Git, VS Code, Postman, Hardhat, Truffle
+
+</details>
+
+<details>
+<summary>🏗️ <b>Architecture & Best Practices</b></summary>
+<br>
+
+- **Clean Code:** Following SOLID principles and design patterns
+- **Testing:** Unit testing, Integration testing, TDD approach
+- **CI/CD:** Automated deployment pipelines and version control
+- **Security:** Smart contract auditing and secure coding practices
+- **Performance:** Code optimization and scalability considerations
+
+</details>
 
 ## 🎯 Featured Projects
 
