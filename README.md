@@ -8,9 +8,10 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Satyam8589&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Satyam8589?style=flat-square&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Satyam8589?style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Satyam8589&color=blue&style=for-the-badge&label=Profile%20Views)
+![GitHub followers](https://img.shields.io/github/followers/Satyam8589?style=for-the-badge&color=blue&logo=github&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/Satyam8589?style=for-the-badge&color=yellow&logo=github&label=Total%20Stars)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?logo=github&style=for-the-badge&color=green&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSatyam8589)
 
 </div>
 
@@ -54,12 +55,12 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyam8589&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam8589&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyam8589&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam8589&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam8589&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam8589&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Graph
@@ -68,18 +69,55 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam8589&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
+### 📊 Real-time GitHub Metrics
+
+<div align="center">
+  
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/Satyam8589/Satyam8589?style=for-the-badge&logo=github&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/Satyam8589/Satyam8589?style=for-the-badge&logo=github&color=green)
+![GitHub Issues](https://img.shields.io/github/issues/Satyam8589/Satyam8589?style=for-the-badge&logo=github&color=red)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Satyam8589/Satyam8589?style=for-the-badge&logo=github&color=yellow)
+
+</div>
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam8589&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam8589&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&cache_seconds=86400" />
+</div>
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=PodCastify&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/PodCastify)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=MediMeet&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/MediMeet)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=Splitr&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/Splitr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=lottery-smart-contract&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/lottery-smart-contract)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=SaveServe&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/SaveServe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Satyam8589&repo=CrowdFunding-Dapp&theme=tokyonight&cache_seconds=86400)](https://github.com/Satyam8589/CrowdFunding-Dapp)
+
 </div>
 
 ## 🔥 Recent Activity
 
 <div align="center">
-  
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Satyam8589&theme=tokyo-night&hide_border=true)](https://github.com/Satyam8589)
+
+</div>
+
+## ⚡ Live GitHub Feed
+
+<div align="center">
+  
+![GitHub Activity](https://img.shields.io/github/commit-activity/w/Satyam8589/Satyam8589?style=for-the-badge&logo=github&label=Weekly%20Commits&color=blue)
+![GitHub Activity](https://img.shields.io/github/commit-activity/y/Satyam8589/Satyam8589?style=for-the-badge&logo=github&label=Yearly%20Commits&color=green)
 
 </div>
 
@@ -204,6 +242,18 @@ Blockchain-powered crowdfunding platform ensuring transparency and security. Bui
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<div align="center">
+
+### 📊 This Week's Language Stats
+
+![Top Languages This Week](https://github-readme-stats.vercel.app/api/wakatime?username=Satyam8589&theme=tokyonight&layout=compact&cache_seconds=86400)
+
+### ⏰ Coding Time This Week
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Satyam8589&theme=tokyonight&cache_seconds=86400)
+
+</div>
 
 ## 🎯 2025 Goals
 
