@@ -113,10 +113,16 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 
 <div align="center">
   
-![GitHub commits](https://badges.pufler.dev/commits/monthly/Satyam8589?style=for-the-badge&color=blue&logo=github&label=Monthly%20Commits)
-![GitHub repos](https://badges.pufler.dev/repos/Satyam8589?style=for-the-badge&color=green&logo=github&label=Public%20Repos)
-![GitHub updated](https://badges.pufler.dev/updated/Satyam8589/Satyam8589?style=for-the-badge&color=orange&logo=github&label=Last%20Updated)
+![GitHub Followers](https://img.shields.io/github/followers/Satyam8589?style=for-the-badge&logo=github&label=Followers&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/Satyam8589?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=Satyam8589&color=green&style=for-the-badge&label=Profile%20Views)
 
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam8589&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ## 🌱 What I'm Working On
